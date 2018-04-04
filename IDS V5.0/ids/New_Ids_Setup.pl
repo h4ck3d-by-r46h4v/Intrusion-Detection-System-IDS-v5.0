@@ -50,7 +50,7 @@ print color("yellow"), "
 \n", color("reset");												
 print color("green"),"                                                                                              Programmers : \n", color("reset");
 print color("blue"),"                                                                                                      -> Raghav Bisht\n", color("reset");
-print color("blue"),"	                                                                                                   -> raghv007bisht@gmail.com\n", color("reset");
+print color("blue"),"	                                                                                                   -> raghv007bisht\@gmail.com\n", color("reset");
 START:
 print color("cyan")," Choose from <1-5> from following :\n", color("reset");
 print "\n";
