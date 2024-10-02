@@ -22,10 +22,3 @@ root@bt:~/home/root/Desktop/ids#
 
 4. Run IDS          
 root@bt:~/home/root/Desktop/ids# perl New_Ids_Setup.pl          
-
-# NOTE For More Information :          
-#Check out : Personal_Final_Report.pdf          
-
-Download : http://www.slideshare.net/raghavbisht9/personal-final-report
-
-NOTE : Send Bug Report To : raghav009testing@gmail.com
